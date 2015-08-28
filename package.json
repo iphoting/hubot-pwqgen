@@ -7,10 +7,10 @@
   "keywords": "hubot, hubot-scripts, password, pwqgen, pwgen",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-pwqgen.git"
+    "url": "git://github.com/iphoting/hubot-pwqgen.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-pwqgen/issues"
+    "url": "https://github.com/iphoting/hubot-pwqgen/issues"
   },
   "dependencies": {},
   "peerDependencies": {

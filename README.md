@@ -2,7 +2,7 @@
 
 Fetches a randomly generated passphrase from https://pwqgen.herokuapp.com/
 
-See [`src/pwqgen.coffee`](https://github.com/iphoting/hubot-pwqgen/blob/master/src/pwqgen.coffee) for full documentation.
+See [`src/pwqgen.coffee`](src/pwqgen.coffee) for full documentation.
 
 ## Installation
 
