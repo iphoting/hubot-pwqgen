@@ -13,6 +13,8 @@
 # Author:
 #   iphoting
 
+process.env.HUBOT_PWQGEN_URL ||= 'https://pwqgen.herokuapp.com/txt'
+
 module.exports = (robot) ->
   robot.respond /pwqgen/i, (res) ->
     res.http(process.env.HUBOT_PWQGEN_URL).get() (err, code, body) ->
