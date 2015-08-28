@@ -1,7 +1,7 @@
 {
   "name": "hubot-pwqgen",
   "description": "Fetches a randomly generated passphrase from https://pwqgen.herokuapp.com/",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Ronald Ip <myself@iphoting.com>",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts, password, pwqgen, pwgen",
